@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="313.376" height="616.626" viewBox="0 0 313.376 616.626">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.558" x2="1" y2="0.442" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#000101" stop-opacity="0.031"/>
+      <stop offset="0.499" stop-color="#000101" stop-opacity="0.031"/>
+      <stop offset="0.5" stop-color="#000101" stop-opacity="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.831" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.836" stop-color="#fff"/>
+      <stop offset="0.935" stop-color="#fff"/>
+      <stop offset="0.94" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="btn_shape" x="130.866" y="541.77" width="53.68" height="58.2" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#fff" flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="glare" x="129.106" y="571.371" width="57.201" height="28.843" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-9" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#232323"/>
+      <stop offset="0.497" stop-color="#232323"/>
+      <stop offset="0.497" stop-color="#0e0e0e"/>
+      <stop offset="1" stop-color="#0e0e0e"/>
+    </linearGradient>
+    <filter id="Shape" x="153.216" y="29" width="11.44" height="11.74" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-3"/>
+      <feFlood flood-color="#fff" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Flat_iPhone_5C_Mock_Up" data-name="Flat iPhone 5C Mock Up" transform="translate(-124.624 -1383)">
+    <g id="COLORS">
+      <g id="green">
+        <g id="borders">
+          <g id="Shape-2" data-name="Shape">
+            <path id="Shape-3" data-name="Shape" d="M426.613,1401.069c-6.323-6.846-18.175-15.006-38.727-15.006H177.594c-20.552,0-32.4,8.16-38.727,15.006a43.352,43.352,0,0,0-11.387,29.1v525.354a43.351,43.351,0,0,0,11.387,29.1c6.323,6.846,18.175,15.007,38.727,15.007H387.886c20.552,0,32.4-8.161,38.727-15.007a43.352,43.352,0,0,0,11.387-29.1V1430.167A43.352,43.352,0,0,0,426.613,1401.069Z" fill="#96e264"/>
+            <path id="Gradient_Overlay" data-name="Gradient Overlay" d="M426.613,1401.069c-6.323-6.846-18.175-15.006-38.727-15.006H177.594c-20.552,0-32.4,8.16-38.727,15.006a43.352,43.352,0,0,0-11.387,29.1v525.354a43.351,43.351,0,0,0,11.387,29.1c6.323,6.846,18.175,15.007,38.727,15.007H387.886c20.552,0,32.4-8.161,38.727-15.007a43.352,43.352,0,0,0,11.387-29.1V1430.167A43.352,43.352,0,0,0,426.613,1401.069Z" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+        <g id="buttons">
+          <g id="lateral_btn" data-name="lateral btn">
+            <path id="lateral_btn-2" data-name="lateral btn" d="M127.475,1572.818h-1.6c-.477,0-1.252.655-1.252,1.078v39.282a1.378,1.378,0,0,0,1.135,1.055h1.716Z" fill="#96e264"/>
+            <path id="Gradient_Overlay-2" data-name="Gradient Overlay" d="M127.475,1572.818h-1.6c-.477,0-1.252.655-1.252,1.078v39.282a1.378,1.378,0,0,0,1.135,1.055h1.716Z" opacity="0.25" fill="url(#linear-gradient-2)"/>
+          </g>
+          <g id="lateral_btn-3" data-name="lateral btn">
+            <path id="lateral_btn-4" data-name="lateral btn" d="M127.475,1516.064h-1.6c-.477,0-1.252.655-1.252,1.078v39.282a1.378,1.378,0,0,0,1.135,1.055h1.716Z" fill="#96e264"/>
+            <path id="Gradient_Overlay-3" data-name="Gradient Overlay" d="M127.475,1516.064h-1.6c-.477,0-1.252.655-1.252,1.078v39.282a1.378,1.378,0,0,0,1.135,1.055h1.716Z" opacity="0.25" fill="url(#linear-gradient-2)"/>
+          </g>
+          <g id="lateral_btn-5" data-name="lateral btn">
+            <path id="lateral_btn-6" data-name="lateral btn" d="M127.475,1471.582H125.9a.824.824,0,0,0-.872.767v25.309a.824.824,0,0,0,.872.767h1.571Z" fill="#96e264"/>
+            <path id="Gradient_Overlay-4" data-name="Gradient Overlay" d="M127.475,1471.582H125.9a.824.824,0,0,0-.872.767v25.309a.824.824,0,0,0,.872.767h1.571Z" opacity="0.25" fill="url(#linear-gradient-2)"/>
+          </g>
+          <path id="top_btn" data-name="top btn" d="M385.7,1386.068V1384.4a1.7,1.7,0,0,0-1.518-1.4H337.345a1.692,1.692,0,0,0-1.485,1.428v1.64Z" fill="#97e365"/>
+        </g>
+      </g>
+      <g id="blue">
+        <g id="borders-2" data-name="borders">
+          <g id="Shape-4" data-name="Shape">
+            <path id="Shape-5" data-name="Shape" d="M426.613,1401.069c-6.323-6.846-18.175-15.006-38.727-15.006H177.594c-20.552,0-32.4,8.16-38.727,15.006a43.352,43.352,0,0,0-11.387,29.1v525.354a43.351,43.351,0,0,0,11.387,29.1c6.323,6.846,18.175,15.007,38.727,15.007H387.886c20.552,0,32.4-8.161,38.727-15.007a43.352,43.352,0,0,0,11.387-29.1V1430.167A43.352,43.352,0,0,0,426.613,1401.069Z" fill="#16a085"/>
+            <path id="Gradient_Overlay-5" data-name="Gradient Overlay" d="M426.613,1401.069c-6.323-6.846-18.175-15.006-38.727-15.006H177.594c-20.552,0-32.4,8.16-38.727,15.006a43.352,43.352,0,0,0-11.387,29.1v525.354a43.351,43.351,0,0,0,11.387,29.1c6.323,6.846,18.175,15.007,38.727,15.007H387.886c20.552,0,32.4-8.161,38.727-15.007a43.352,43.352,0,0,0,11.387-29.1V1430.167A43.352,43.352,0,0,0,426.613,1401.069Z" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+        <g id="buttons-2" data-name="buttons">
+          <g id="lateral_btn-7" data-name="lateral btn">
+            <path id="lateral_btn-8" data-name="lateral btn" d="M127.475,1572.818h-1.6c-.477,0-1.252.655-1.252,1.078v39.282a1.378,1.378,0,0,0,1.135,1.055h1.716Z" fill="#16a085"/>
+            <path id="Gradient_Overlay-6" data-name="Gradient Overlay" d="M127.475,1572.818h-1.6c-.477,0-1.252.655-1.252,1.078v39.282a1.378,1.378,0,0,0,1.135,1.055h1.716Z" opacity="0.25" fill="url(#linear-gradient-2)"/>
+          </g>
+          <g id="lateral_btn-9" data-name="lateral btn">
+            <path id="lateral_btn-10" data-name="lateral btn" d="M127.475,1516.064h-1.6c-.477,0-1.252.655-1.252,1.078v39.282a1.378,1.378,0,0,0,1.135,1.055h1.716Z" fill="#16a085"/>
+            <path id="Gradient_Overlay-7" data-name="Gradient Overlay" d="M127.475,1516.064h-1.6c-.477,0-1.252.655-1.252,1.078v39.282a1.378,1.378,0,0,0,1.135,1.055h1.716Z" opacity="0.25" fill="url(#linear-gradient-2)"/>
+          </g>
+          <g id="lateral_btn-11" data-name="lateral btn">
+            <path id="lateral_btn-12" data-name="lateral btn" d="M127.475,1471.582H125.9a.824.824,0,0,0-.872.767v25.309a.824.824,0,0,0,.872.767h1.571Z" fill="#16a085"/>
+            <path id="Gradient_Overlay-8" data-name="Gradient Overlay" d="M127.475,1471.582H125.9a.824.824,0,0,0-.872.767v25.309a.824.824,0,0,0,.872.767h1.571Z" opacity="0.25" fill="url(#linear-gradient-2)"/>
+          </g>
+          <path id="top_btn-2" data-name="top btn" d="M385.7,1386.068V1384.4a1.7,1.7,0,0,0-1.518-1.4H337.345a1.692,1.692,0,0,0-1.485,1.428v1.64Z" fill="#16a085"/>
+        </g>
+      </g>
+    </g>
+    <g id="elements">
+      <g id="body">
+        <path id="Shape-6" data-name="Shape" d="M387.886,1391.815H177.594c-32.277,0-43.986,21.942-43.986,38.352v525.355c0,16.409,11.708,38.352,43.986,38.352H387.886c32.277,0,43.986-21.943,43.986-38.352V1430.167C431.871,1413.757,420.163,1391.815,387.886,1391.815Z"/>
+        <path id="Shape-7" data-name="Shape" d="M407.393,1397.608a51.27,51.27,0,0,0-19.508-3.492H177.594a51.27,51.27,0,0,0-19.508,3.492,34.924,34.924,0,0,0-22.027,32.559v525.356a34.924,34.924,0,0,0,22.027,32.558,51.273,51.273,0,0,0,19.508,3.492H387.886a51.272,51.272,0,0,0,19.508-3.492,34.924,34.924,0,0,0,22.027-32.558V1430.166a34.925,34.925,0,0,0-22.027-32.559Z" fill="#141414"/>
+      </g>
+      <g id="home_btn" data-name="home btn">
+        <g transform="matrix(1, 0, 0, 1, 124.62, 1383)" filter="url(#btn_shape)">
+          <ellipse id="btn_shape-2" data-name="btn shape" cx="26.84" cy="28.6" rx="26.84" ry="28.6" transform="translate(130.87 542.77)" fill="#141414"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 124.62, 1383)" filter="url(#glare)">
+          <path id="glare-2" data-name="glare" d="M282.331,1981.214c15.8,0,28.6-12.018,28.6-26.843,0,0-10.392,2.492-28.7,2.492s-28.5-2.492-28.5-2.492C253.731,1969.2,266.535,1981.214,282.331,1981.214Z" transform="translate(-124.62 -1383)" fill="rgba(255,255,255,0.04)"/>
+        </g>
+        <path id="Shape-8" data-name="Shape" d="M289.277,1945.168a2.382,2.382,0,0,1,2.451,2.3v13.038a2.382,2.382,0,0,1-2.451,2.3H275.385a2.382,2.382,0,0,1-2.452-2.3v-13.038a2.382,2.382,0,0,1,2.452-2.3h13.892m0-1.534H275.385a3.966,3.966,0,0,0-4.086,3.835v13.038a3.967,3.967,0,0,0,4.086,3.835h13.892a3.967,3.967,0,0,0,4.086-3.835v-13.038a3.966,3.966,0,0,0-4.086-3.835Z" fill="#3e3e3e"/>
+      </g>
+      <g id="micro">
+        <path id="Shape-9" data-name="Shape" d="M311.749,1440.521a5.949,5.949,0,0,1-6.129,5.752H260.677a5.95,5.95,0,0,1-6.129-5.752h0a5.949,5.949,0,0,1,6.129-5.752H305.62a5.949,5.949,0,0,1,6.129,5.752Z" fill="url(#linear-gradient-9)"/>
+        <g id="Shape-10" data-name="Shape">
+          <path id="Shape-11" data-name="Shape" d="M305.62,1437.069H260.677a3.074,3.074,0,1,0,0,6.135H305.62a3.074,3.074,0,1,0,0-6.135Z"/>
+          <path id="Color_Overlay" data-name="Color Overlay" d="M305.62,1437.069H260.677a3.074,3.074,0,1,0,0,6.135H305.62a3.074,3.074,0,1,0,0-6.135Z" fill="#2a292a" opacity="0.96"/>
+        </g>
+      </g>
+      <g id="cam">
+        <g transform="matrix(1, 0, 0, 1, 124.62, 1383)" filter="url(#Shape)">
+          <ellipse id="Shape-12" data-name="Shape" cx="5.72" cy="5.37" rx="5.72" ry="5.37" transform="translate(153.22 29)" fill="#232323"/>
+        </g>
+        <g id="Shape-13" data-name="Shape" transform="translate(281.44 1415.38)" fill="#30a7c4" stroke="#0e0e0e" stroke-linejoin="round" stroke-width="2">
+          <ellipse cx="2.12" cy="1.99" rx="2.12" ry="1.99" stroke="none"/>
+          <ellipse cx="2.12" cy="1.99" rx="3.12" ry="2.99" fill="none"/>
+        </g>
+        <image id="light" width="1" height="1" transform="translate(283 1416)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAADUlEQVQIHWP4//9/FAAJVgNY9ikwvgAAAABJRU5ErkJggg=="/>
+      </g>
+    </g>
+    <g id="PUT_YOUR_SCREEN_HERE" data-name="PUT YOUR SCREEN HERE">
+      <g id="PUT_YOUR_SCREEN_HERE-2" data-name="PUT YOUR SCREEN HERE" transform="translate(152 1475)">
+        <g id="Colors_bg" data-name="Colors bg">
+          <g id="green-2" data-name="green">
+            <rect id="bg" width="261" height="436" fill="#16a085"/>
+          </g>
+        </g>
+        <g id="Status_bar" data-name="Status bar">
+          <g id="Battery">
+            <text id="_100_" data-name="100%" transform="translate(233.889 12.409)" fill="#010101" font-size="9" font-family="HelveticaNeue, Helvetica Neue" letter-spacing="-0.02em"><tspan x="-23.472" y="0">100%</tspan></text>
+            <g id="battery-2" data-name="battery" transform="translate(236.939 5.373)" fill="none" stroke="#000" stroke-width="0.396">
+              <rect width="18.352" height="7.292" rx="1.187" stroke="none"/>
+              <rect x="0.198" y="0.198" width="17.956" height="6.897" rx="0.989" fill="none"/>
+            </g>
+            <rect id="Charge" width="16.72" height="5.757" rx="0.791" transform="translate(237.755 6.141)"/>
+            <path id="_" data-name="+" d="M255.7,7.676a1.22,1.22,0,0,1,1.223,1.343,1.22,1.22,0,0,1-1.223,1.343Z"/>
+          </g>
+          <path id="Bluetooth" d="M201.577,9.016l2.252-2.169L200.7,3.834h-.081V8.092l-2.332-2.246-.562.541,2.729,2.629-2.729,2.629.562.541,2.332-2.246V14.2h.148l3.1-2.982Zm1.128-2.169L201.459,8.06v-2.3Zm-1.246,5.434v-2.3l1.279,1.238Z" opacity="0.4"/>
+          <text id="_4:21_PM" data-name="4:21 PM" transform="translate(113.606 12.409)" font-size="10" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500" letter-spacing="-0.02em"><tspan x="-18.3" y="0">4:21 PM</tspan></text>
+          <g id="Signal_Carrier" data-name="Signal &amp; Carrier">
+            <path id="wifi" d="M66.626,10.583a2.606,2.606,0,0,1,3.34,0l-1.671,1.761Zm1.669-1.724a3.94,3.94,0,0,0-2.481.867L65,8.869a5.138,5.138,0,0,1,6.588,0l-.813.856A3.938,3.938,0,0,0,68.295,8.859Zm0-2.334a6.474,6.474,0,0,0-4.126,1.464l-.766-.81a7.432,7.432,0,0,1,9.791.006l-.767.809A6.475,6.475,0,0,0,68.295,6.525Z"/>
+            <text id="BELL" transform="translate(36.511 12.276)" font-size="9" font-family="HelveticaNeue, Helvetica Neue" letter-spacing="0.02em"><tspan x="0" y="0">BELL</tspan></text>
+            <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="2.243" cy="2.111" rx="2.243" ry="2.111" transform="translate(5.709 6.908)"/>
+            <ellipse id="Ellipse_1-2" data-name="Ellipse 1" cx="2.243" cy="2.111" rx="2.243" ry="2.111" transform="translate(11.419 6.908)"/>
+            <ellipse id="Ellipse_1-3" data-name="Ellipse 1" cx="2.243" cy="2.111" rx="2.243" ry="2.111" transform="translate(17.128 6.908)"/>
+            <g id="Ellipse_1-4" data-name="Ellipse 1" transform="translate(22.837 6.908)" fill="none" stroke="#000" stroke-width="0.396">
+              <ellipse cx="2.243" cy="2.111" rx="2.243" ry="2.111" stroke="none"/>
+              <ellipse cx="2.243" cy="2.111" rx="2.045" ry="1.913" fill="none"/>
+            </g>
+            <g id="Ellipse_1-5" data-name="Ellipse 1" transform="translate(28.547 6.908)" fill="none" stroke="#000" stroke-width="0.396">
+              <ellipse cx="2.243" cy="2.111" rx="2.243" ry="2.111" stroke="none"/>
+              <ellipse cx="2.243" cy="2.111" rx="2.045" ry="1.913" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Stroke_Effect" data-name="Stroke Effect" fill="none" stroke-linejoin="round">
+        <path d="M152,1911V1475H413v436Z" stroke="none"/>
+        <path d="M 413.0001220703125 1910.999755859375 L 413.0001220703125 1475.000122070312 L 152.0001220703125 1475.000122070312 L 152.0001220703125 1910.999755859375 L 413.0001220703125 1910.999755859375 M 413.0001220703125 1919.999755859375 L 152.0001220703125 1919.999755859375 C 147.0295562744141 1919.999755859375 143.0001220703125 1915.970336914062 143.0001220703125 1910.999755859375 L 143.0001220703125 1475.000122070312 C 143.0001220703125 1470.029541015625 147.0295562744141 1466.000122070312 152.0001220703125 1466.000122070312 L 413.0001220703125 1466.000122070312 C 417.9706726074219 1466.000122070312 422.0001220703125 1470.029541015625 422.0001220703125 1475.000122070312 L 422.0001220703125 1910.999755859375 C 422.0001220703125 1915.970336914062 417.9706726074219 1919.999755859375 413.0001220703125 1919.999755859375 Z" stroke="none" fill="#1e1e1e"/>
+      </g>
+    </g>
+  </g>
+</svg>

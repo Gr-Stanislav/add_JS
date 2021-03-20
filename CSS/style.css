@@ -1,0 +1,662 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+header {
+    width: 100%;
+    height: auto;
+    background-image: url('../images/fon_header.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    position: relative;
+}
+
+.container {
+    width: 80%;
+    max-width: 1500px;
+    margin: 0 auto;
+    /* border: 1px solid orange; */
+    text-align: center;
+    height: 100vh;
+}
+
+li {
+    list-style-type: none;
+}
+
+.header_menu ul {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.header_menu li {
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 73px;
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 300;
+    padding: 1%;
+    transition: all 0.25s;
+}
+
+.header_menu li:hover {
+    color: #16A085;
+}
+
+.logo_header {
+    position: relative;
+    bottom: 35px;
+    width: 146%;
+}
+
+.container h1 {
+    color: #ffffff;
+    font-size: 4rem;
+    margin-top: 16%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container p {
+    color: #ffffff;
+    font-size: 1.5rem;
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.get_started {
+    border-radius: 3px;
+    background-color: #16A085;
+    width: 12%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: 0 auto;
+    margin-top: 2%;
+}
+
+.get_started:hover {
+    box-shadow: 0 0 20px;
+}
+
+.get_started a {
+    width: 100%;
+    height: 100%;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+}
+
+.nav_menu {
+    text-align: center;
+}
+.nav_menu img {
+    padding-left: 0.5%;
+    padding-bottom: 1%;
+}
+
+/* HEND BLOCK-------------- */
+.hend_phone {
+    width: 100%;
+    height: 100vh;
+    background-image: url('../images/iii.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    background-position: center;
+}
+
+
+.hend_phone_left h2 {
+    display: inline-block;
+    color: #16A085;
+    font-size: 2.5rem;
+    font-weight: 100;
+    margin-bottom: 2%;
+    margin-left: 6%;
+    margin-top: 6%;
+    width: 32%;
+}
+
+.hend_phone_left p {
+    color: #373737;
+    display: block;
+    font-size: 2rem;
+    font-weight: 100;
+    margin-bottom: 1%;
+    margin-left: 6%;
+    margin-top: 1%;
+    width: 35%;
+    max-width: 700px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.get_started_bott a {
+    background-color: #16A085;
+    border-radius: 4px;
+    text-align: center;
+    display: inline-block;
+    width: 19%;
+    max-width: 230px;
+    margin-top: 2%;
+    font-size: 2rem;
+    font-weight: 100;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 6%;
+    text-decoration: none;
+    color: white;
+}
+/* END HEND BLOCK---------- */
+
+
+
+/* DESIGN-------- */
+.design_photo, .design_text {
+    width: 30%;
+    min-width: 250px;
+    margin-left: 10%;
+    height: 500px;
+}
+.DESIGN {
+    background-color: #ffffff;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-top: 100px;
+    padding-bottom: 35px;
+    position: relative;
+
+}
+
+.design_text h2 {
+    color: #16A085;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.design_text p {
+    font-family: 'Roboto', sans-serif;
+    width: 60%;
+    margin-bottom: 40px;
+}
+
+.design_text a {
+    text-decoration: none;
+    background-color: #16A085;
+    color: #ffffff;
+    padding: 2% 5%;
+    border-radius: 4px;
+}
+
+.design_text span {
+    display: block;
+    margin-top: 40px;
+    margin-left: 5px;
+}
+
+.design_text button {
+    background: no-repeat;
+    border: none;
+    display: inline-block;
+    padding-left: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.design_photo img {
+    width: 100%;
+    min-width: 254px;
+    height: 100%;
+}
+/* END DESIGN-------- */
+
+
+/* COMMYNITY --------- */
+.community {
+    width: 100%;
+    background-color: #F5F6F7;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.container1 {   
+    width: 80%;
+    max-width: 1500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.block_buttom {
+    margin-top: 40px;
+    text-align: right;
+    margin-right: 10%;
+}
+
+.block_buttom button {
+    border: none;
+    background: none;
+    padding-right: 10px;
+    cursor: pointer;
+}
+
+.block_image {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+}
+
+.photo1 img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+.photo1 h3 {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10%;
+}
+
+.photo1 p {
+    margin: 0 auto;
+    margin-top: 4%;
+    width: 50%;
+    text-align: center;
+}
+.photo2 {
+    background-image: url('../images/Livello\ 5.png');
+}
+
+.photo3 {
+    background-image: url('../images/Livello\ 6.png');
+}
+
+.photo1, .photo2, .photo3 {
+    display: block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    min-width: 300px;
+    height: 240px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+/* END COMMYNITY--------- */
+
+
+/* Livello-------------- */
+.Livello {
+    background-image: url('../images/fon-Livello.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    padding-top: 20%;
+}
+
+.Livello h2 {
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    font-size: 2.5rem;
+    margin-bottom: 28px;
+}
+
+.forma {
+    width: 100%;
+    text-align: center;
+}
+
+#email {
+    display: inline-block;
+    width: 20%;
+    max-width: 300px;
+    min-width: 250px;
+    height: 60px;
+    margin: 0 auto;
+    margin-right: 0;
+    border: none;
+    padding-left: 2%;
+}
+
+#submit {
+    width: 60px;
+    height: 60px;
+    background-color: #16A085;
+    margin-left: 0;
+    border: none;
+    position: relative;
+    top: 2px;
+    right: 4px;
+    cursor: pointer;
+}
+/* END Livello -------------- */
+
+
+/* DOWNLOAD ------ */
+.download {
+    width: 100%;
+    text-align: center;
+    background-color: #F5F6F7;
+    padding-top: 70px;
+    padding-bottom: 80px;
+}
+
+.download h2 {
+    color: #373737;
+    font-size: 2rem;
+    font-weight: 200;
+    margin-bottom: 30px; 
+}
+
+.download p {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    color: #707070;
+    font-size: 1rem;
+}
+
+.save {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.apple, .android {
+    margin-left: 20px;
+    width: 20%;
+    max-width: 282px;
+    height: 55px;
+    min-width: 250px;
+    cursor: pointer;
+}
+
+.apple img {
+    width: 100%;
+    height: 100%;
+}
+
+.apple img:hover {
+    box-shadow: 0 0 5px;
+}
+
+.android img {
+    width: 100%;
+    height: 100%;
+}
+
+.android img:hover {
+    box-shadow: 0 0 5px;
+}
+
+/* END DOWNLOAD------ */
+
+/* FOOTER -------- */
+footer {
+    background-color: #FFFFFF;
+    width: 100%;
+    height: 130px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.contact {
+    width: 50%;
+}
+
+.contact li {
+    display: inline-block;
+    padding: 0 5%;
+    color: #707070;
+}
+
+.contact ul {
+    margin-left: 20%;
+}
+
+.border {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.contact_text {
+    width: 76%;
+    margin-left: 24%;
+    margin-top: 5px;
+    color: #707070;
+}
+
+.logo_footer {
+    margin-right: 10%;
+}
+/* FOOTER ------- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 450px) {
+    header {
+        background-position: bottom;
+    }
+
+    .hidden_block{
+        padding-top: 40px;
+    }
+
+    .hidden_block img {
+        margin-bottom: 20px;
+    }
+
+    .header_menu_hidden li {
+        color: #ffffff;
+        padding: 1%;
+    }
+
+    .header_menu {
+        display: none;
+    }
+
+    .logo_header {
+        display: none;
+    }
+
+    .container h1 {
+        font-size: 2rem;
+    }
+
+    .container p {
+        font-size: 1rem;
+    }
+
+    .get_started {
+        width: 29%;
+        margin-top: 5%;
+        font-size: 1rem;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+
+    .logo_header {
+        margin-top: 20px;
+    }
+
+    .container h1 {
+        margin-top: 40%;
+    }
+
+    .hend_phone_left h2 {
+        font-size: 1.5rem;
+        width: 88%;
+    }
+
+    .hend_phone_left p {
+        width: 61%;
+        font-size: 1rem;
+        margin-top: 7%;
+    }
+
+    .get_started_bott a {
+        font-size: 1rem;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        margin-top: 6%;
+    }
+
+    .design_text {
+        order: -1;
+    }
+
+    .Livello {
+        background-position: center;
+        padding-top: 50%;
+    }
+
+    .contact {
+        width: 100%;
+    }
+
+    .contact ul {
+        margin: 0 auto;
+    }
+
+    .contact li {
+        display: block;
+        border: none;
+        text-align: center;
+        margin-top: 5px;
+    }
+
+    .contact_text {
+        width: 100%;
+        text-align: center;
+        margin-left: 0px;
+    }
+
+    .logo_footer {
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+}
+
+@media screen and (min-width: 451px) and (max-width: 600px) {
+    .hidden_block {
+        display: none;
+    }
+
+    .header_menu li {
+        font-size: 1rem;
+    }
+
+    .logo_header {
+        width: 100%;
+    }
+
+    .container h1 {
+        margin-top: 27%;
+    }
+
+    .get_started {
+        width: 35%;
+        padding-top: 3%;
+        padding-bottom: 3%;
+    }
+
+    .hend_phone_left h2 {
+        width: 70%;
+    }
+
+    .hend_phone_left p {
+        width: 65%;
+        font-size: 1.5rem;
+    }
+
+    .get_started_bott a {
+        font-size: 1rem;
+        width: 28%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        margin-top: 3%;
+    }
+
+    .design_text {
+        order: -1;
+    }
+
+    .Livello {
+        background-position: center;
+    }
+
+    .Livello h2 {
+        width: 60%;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (min-width: 601px) {
+    .hidden_block {
+        display: none;
+    }
+
+    .header_menu li {
+        font-size: 1.3rem;
+    }
+
+    .logo_header {
+        width: 119%;
+    }
+
+    .container h1 {
+        font-size: 3rem;
+        margin-top: 6%;
+    }
+
+    .get_started {
+        width: 20%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        margin-top: 5%;
+    }
+
+    .hend_phone_left h2 {
+        font-size: 3rem;
+        width: 50%;
+    }
+
+    .hend_phone_left p {
+        font-size: 1rem;
+        width: 50%;
+    }
+
+    .get_started_bott a {
+        width: 25%;
+    }
+}
