@@ -148,10 +148,10 @@ li {
     width: 19%;
     max-width: 230px;
     margin-top: 2%;
-    font-size: 2rem;
+    /* font-size: 2rem; */
     font-weight: 100;
-    padding-top: 1%;
-    padding-bottom: 1%;
+    padding-top: 2%;
+    padding-bottom: 2%;
     margin-left: 6%;
     text-decoration: none;
     color: white;
@@ -161,12 +161,60 @@ li {
 
 
 /* DESIGN-------- */
-.design_photo, .design_text {
+.design_photo, 
+.design_text {
     width: 30%;
+    max-width: 260px;
     min-width: 250px;
     margin-left: 10%;
     height: 500px;
 }
+
+/* Slider ------------- */
+.slide {
+    height: 90%;
+}
+
+.slick-track {
+    display: flex;
+    height: 100%;
+}
+
+.slick-list {
+    overflow: hidden;
+    height: 100%;
+}
+
+/* .slick-prev {
+    font-size: 0;
+    width: 7%;
+    height: 5%;
+    background-repeat: no-repeat;
+    background-position: left;
+    border: none;
+    background-color: white;
+    outline: none;
+    display: none;
+}
+
+.slick-next {
+    font-size: 0;
+    width: 7%;
+    height: 5%;
+    background-repeat: no-repeat;
+    background-position: left;
+    border: none;
+    background-color: white;
+    outline: none;
+    display: none;
+} */
+
+button {
+    outline: none;
+}
+
+/* ------------------- */
+
 .DESIGN {
     background-color: #ffffff;
     width: 100%;
@@ -219,7 +267,7 @@ li {
 }
 
 .design_photo img {
-    width: 100%;
+    /* width: 100%; */
     min-width: 254px;
     height: 100%;
 }
